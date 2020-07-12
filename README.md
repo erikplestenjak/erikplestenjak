@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Erik and I'm a software engineer, experienced primarely in web development. 
+
+I'm also a hardware and automation enthusiast, working on individual projects with PLCs and Arduino.
+
+Key stack: 
+| Python | Django | JavaScript | SQL | PHP | Docker | Vue.js |
+| :--- |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
